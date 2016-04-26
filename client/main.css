@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+.paper {
+	padding: 10px 15px;
+	text-align: left;
+}
+
+.text-left {
+	text-align: left;
+}
